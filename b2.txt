@@ -1,2 +1,8 @@
 1st in b2
 2nd line
+this
+is last
+line
+adding
+for 
+checking
